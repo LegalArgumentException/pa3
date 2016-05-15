@@ -1,0 +1,19 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Emulator config file set to c:\users\tanner\documents\visual studio 2015\Projects\TannerPA3\TannerPA3\csx\Debug\roles\PA3WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] DiagnosticsStoreRootPath set to: C:\Users\Tanner\AppData\Local\dftmp\Resources\3e3c48c0-348c-4ae5-9f9e-fdae4c01c8ca
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Loading config file: c:\users\tanner\documents\visual studio 2015\Projects\TannerPA3\TannerPA3\csx\Debug\roles\PA3WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Config file to read: c:\users\tanner\documents\visual studio 2015\Projects\TannerPA3\TannerPA3\csx\Debug\roles\PA3WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Emulator config file set to c:\users\tanner\documents\visual studio 2015\Projects\TannerPA3\TannerPA3\csx\Debug\roles\PA3WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:40 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:41 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:14:41 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:15:51 PM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [5/15/2016 12:15:51 PM] DiagnosticPlugin exited with code 0
